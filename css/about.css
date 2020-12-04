@@ -1,0 +1,283 @@
+div.about{
+    background: url(../img/bm-pea-hero.jpg) no-repeat;
+    /*width: 1200%;*/
+    /*height: 600px;*/
+    background-size:100% 600px;
+    background-position: center;
+    height: 600px;
+    /*position: relative;*/
+
+}
+
+
+div.about .about-box{
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+div.about .about-box h1{
+    position: absolute;
+    top: 380px;
+    color: white;
+    width: 300px;
+    font-size: 40px;
+
+}
+
+div.interval-space{
+    background-color: white;
+    height: 25px;
+}
+
+/*我们的任务*/
+div.mission{
+    /*position: relative;*/
+}
+div.mission-top{
+    background: url(../img/bm-beet-hero.jpg) no-repeat;
+    /*width: 1200%;*/
+    /*height: 600px;*/
+    background-size:100% 600px;
+    background-position: center;
+    height: 600px;
+    position: relative;
+    z-index: -10;
+
+}
+
+div.mission-body{
+    margin-top: -320px;
+    background: url(../img/bm-dirt-hero.png) no-repeat;
+    /*width: 1200%;*/
+    /*height: 600px;*/
+    background-size:100% 800px;
+    background-position: center;
+    height: 800px;
+    z-index: 100;
+    /*position: relative;*/
+
+}
+
+div.mission-top .mission-top-content{
+    position: absolute;
+    top: 80px;
+    right: 100px;
+    width: 400px;
+
+    /*height: 500px;*/
+
+
+}
+
+div.mission-top .mission-top-content h1{
+    margin-bottom: 20px;
+    font-size: 40px;
+    /*height: 500px;*/
+
+
+}
+
+div.mission-body .mission-body-content{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.mission-body .mission-body-content h1{
+    padding-top: 350px;
+    color: white;
+    font-size: 40px;
+    margin-bottom: 50px;
+
+
+}
+
+
+div.mission-body .mission-body-content ul li{
+   width: 25%;
+    float: left;
+
+}
+div.mission-body .mission-body-content ul li p{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+
+div.mission-body .mission-body-content ul li img{
+    width: 194px;
+    height: 194px;
+    /*float: left;*/
+
+}
+
+
+/*吃你所爱，是从别的地方抄来的*/
+
+div.other-ingredients{
+    /*width: 100%;*/
+    height: 500px;
+    /*background: url("../img/Sausages.png") no-repeat ;*/
+    background-color: rgb(214,215,219);
+    /*background-size:100% 500px;*/
+
+}
+
+
+div.other-ingredients .other-ingredients-box-left{
+    width: 50%;
+    float: left;
+    position: relative;
+
+
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content{
+    position: absolute;
+    top: 75px;
+    width: 500px;
+    right: 0px;
+
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content h2{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content p {
+    font-size: 20px;
+    margin-top: 10px;
+    /*line-height: 30px;*/
+    /*margin-bottom: 20px;*/
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content a{
+    text-decoration: none;
+    color: #6cc24a;
+}
+
+div.other-ingredients .other-ingredients-box-right{
+    width: 50%;
+    height: 500px;
+    float: right;
+    background: url("../img/pros-hero.png") no-repeat ;
+    background-size: 125% 500px;
+}
+
+/*影响部分*/
+div.impact{
+    background-color: #76c254;
+
+    /*width: 1200%;*/
+    /*height: 600px;*/
+    background-size:100% 600px;
+    height: 800px;
+    /*background-position: center;*/
+    /*height: 600px;*/
+    /*position: relative;*/
+
+}
+
+div.impact div.impact-top{
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 30px;
+
+}
+
+div.impact div.impact-top div.impact-top-left{
+    width: 500px;
+    float: left;
+}
+
+div.impact div.impact-top div.impact-top-left h1{
+   margin-top: 100px;
+    color: white;
+    font-size: 40px;
+}
+div.impact div.impact-top div.impact-top-left p{
+    /*margin-top: 100px;*/
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+div.impact div.impact-top div.impact-top-right {
+    float: right;
+    /*width: 500px;*/
+}
+div.impact div.impact-top div.impact-top-right  img{
+    width: 500px;
+    height: 400px;
+
+}
+
+
+/*body*/
+div.impact div.impact-body{
+    clear: both;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+div.impact div.impact-body div.impact-body-left{
+    /*width: 500px;*/
+    float: left;
+}
+
+div.impact div.impact-body div.impact-body-left img{
+    width: 500px;
+    height: 250px;
+}
+
+
+
+div.impact div.impact-body div.impact-body-right {
+    float: right;
+    /*width: 500px;*/
+}
+
+div.impact div.impact-body div.impact-body-right  img{
+    width: 500px;
+    height: 250px;
+
+}
+div.impact-footer{
+    clear: both;
+    padding-top: 20px;
+}
+div.impact-footer span.impact-footer-btn{
+    display: block;
+    border: 1px solid #777777;
+    color:  #777777;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 25px;
+    font-weight: bold;
+    width: 100px;
+
+
+}
+
+
+div.video{
+    width: 1000px;
+    min-width: 1000px;
+    height: 500px;
+    min-height: 500px;
+    padding-top: 70px;
+    margin: 0 auto;
+    padding-bottom: 70px;
+
+}
+
+
+
+

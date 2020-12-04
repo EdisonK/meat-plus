@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+
+    background-color: rgb(28,28,28);
+
+}
+iframe.iframe-header{
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+}
+
+iframe.iframe-footer{
+    height: 250px;
+}
+
+/*div.interval-space{*/
+/*    background-color: white;*/
+/*    height: 25px;*/
+/*}*/
+
+/*ul li{*/
+/* list-style: none;*/
+/*}*/

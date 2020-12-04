@@ -1,0 +1,145 @@
+div.banner{
+    background: url(../img/Products_HeroBanner.jpg) no-repeat;
+    /*width: 1200%;*/
+    /*height: 600px;*/
+    background-size:100% 600px;
+    background-position: center;
+    height: 600px;
+    position: relative;
+
+}
+
+div.banner .banner-content{
+    position: relative;
+    top: 250px;
+    left: 100px;
+    width: 400px;
+
+}
+
+div.banner .banner-content p{
+    margin-top: 20px;
+    line-height: 25px;
+
+}
+
+/*肉丸*/
+
+div.meat-balls{
+    width: 100%;
+    background: white;
+}
+
+div.meat-balls .meat-balls-content{
+    width: 1100px;
+    margin: 0px auto;
+    padding-top: 50px;
+    height: 600px;
+}
+
+div.meat-balls .meat-balls-content .meat-balls-content-left {
+    float: left;
+}
+
+
+div.meat-balls .meat-balls-content .meat-balls-content-left img{
+    width: 500px;
+    height: 500px;
+}
+
+div.meat-balls .meat-balls-content .meat-balls-content-right {
+    float: right;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+div.meat-balls .meat-balls-content .meat-balls-content-right h2{
+
+    margin-top: 30px;
+    font-size: 32px;
+
+}
+
+div.meat-balls .meat-balls-content .meat-balls-content-right p{
+
+    margin-top: 25px;
+    font-size: 20px;
+
+}
+
+
+div.meat-balls .meat-balls-content .meat-balls-content-right img{
+
+    width: 360px;
+    height: 240px;
+    margin-top: 15px;
+
+}
+
+div.meat-balls .meat-balls-content .meat-balls-content-right a{
+
+    display: block;
+    margin-top: 30px;
+
+}
+
+
+/*肉丸1*/
+
+div.meat-balls1{
+    width: 100%;
+    background: white;
+}
+
+div.meat-balls1 .meat-balls1-content{
+    width: 1100px;
+    margin: 0px auto;
+    padding-top: 50px;
+    height: 600px;
+}
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-right {
+    float: right;
+}
+
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-right img{
+    width: 500px;
+    height: 500px;
+}
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-left {
+    float: left;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-left h2{
+
+    margin-top: 30px;
+    font-size: 32px;
+
+}
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-left p{
+
+    margin-top: 25px;
+    font-size: 20px;
+
+}
+
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-left img{
+
+    width: 360px;
+    height: 240px;
+    margin-top: 15px;
+
+}
+
+div.meat-balls1 .meat-balls1-content .meat-balls1-content-left a{
+
+    display: block;
+    margin-top: 30px;
+
+}

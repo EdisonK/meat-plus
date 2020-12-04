@@ -1,0 +1,234 @@
+div.ingredients-box{
+    background: url("../img/burger-hero.jpg") no-repeat;
+    background-size:100% 552px;
+    height: 552px;
+}
+div.ingredients-box .ingredients-box-content{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+div.ingredients-box .ingredients-box-content h1{
+    color: black;
+    position: absolute;
+    top: 280px;
+    width: 350px;
+    font-size: 50px;
+
+}
+div.interval-space{
+    background-color: white;
+    height: 25px;
+}
+
+/*关键组成*/
+div.key-ingredients{
+    background: url("../img/beet-bg.jpg") no-repeat;
+    background-size:100% 400px;
+    height: 400px;
+}
+div.key-ingredients .key-ingredients-content{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.key-ingredients .key-ingredients-content h1{
+    color: white;
+    padding-top: 80px ;
+    font-size: 50px;
+}
+
+div.key-ingredients .key-ingredients-content p{
+    color: white;
+    margin-top: 15px;
+    font-size: 25px;
+
+
+}
+
+div.interval-details{
+    background-color: rgb(230,231,232);
+    height: 550px;
+
+}
+
+div.interval-details .interval-details-box{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+div.interval-details .interval-details-box .interval-details-left,div.interval-details .interval-details-box .interval-details-right{
+    width: 600px;
+    float: left;
+
+}
+
+div.interval-details .interval-details-box  .interval-details-content{
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 30px;
+
+}
+
+div.interval-details .interval-details-box .interval-details-content img{
+    width: 500px;
+   height: 375px;
+
+}
+
+div.interval-details .interval-details-box .interval-details-content h2{
+    color: #76c254;
+
+}
+div.interval-details .interval-details-box  .interval-details-content h4 {
+    margin-top: 10px;
+}
+
+
+
+div.interval-details .interval-details-box  .interval-details-content p{
+    margin-top: 10px;
+    color: rgb(85,85,85);
+
+}
+
+div.carbohydrates{
+    width: 100%;
+    height: 450px;
+    background-color: white;
+}
+
+div.carbohydrates .carbohydrates-box{
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 120px;
+    /*background-color: white;*/
+}
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-left{
+    width: 500px;
+    float: left;
+}
+
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-left h2{
+    color: #76c254;
+}
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-left h4{
+    margin-top: 10px;
+}
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-left p{
+    margin-top: 10px;
+    color: rgb(85,85,85);
+}
+
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-right{
+    width: 500px;
+    float: right;
+
+    /*background-color: white;*/
+}
+
+div.carbohydrates .carbohydrates-box .carbohydrates-box-right img{
+    width: 500px;
+    height: 270px;
+
+}
+
+
+div.other-ingredients{
+    /*width: 100%;*/
+    height: 500px;
+    /*background: url("../img/Sausages.png") no-repeat ;*/
+    background-color: rgb(214,215,219);
+    /*background-size:100% 500px;*/
+
+}
+
+
+div.other-ingredients .other-ingredients-box-left{
+    width: 50%;
+    float: left;
+    position: relative;
+
+
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content{
+    position: absolute;
+    top: 75px;
+    width: 500px;
+    right: 0px;
+
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content h2{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content p {
+    font-size: 20px;
+    margin-top: 10px;
+    /*line-height: 30px;*/
+    /*margin-bottom: 20px;*/
+}
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content p span{
+    font-weight: bold;
+}
+
+
+div.other-ingredients .other-ingredients-box-left .other-ingredients-box-content a{
+    text-decoration: none;
+    color: #6cc24a;
+}
+
+div.other-ingredients .other-ingredients-box-right{
+    width: 50%;
+    height: 500px;
+    float: right;
+    background: url("../img/Sausages.png") no-repeat ;
+    background-size: 100% 500px;
+}
+
+div.process .process-top{
+    width: 1000px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+div.process .process-top h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+div.process .process-top p{
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+div.process .process-body img{
+    width: 100%;
+    padding-top: 100px;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+
+

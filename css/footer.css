@@ -1,0 +1,53 @@
+/*footer*/
+*{
+    margin:0;
+    padding:0;
+}
+
+.footer{
+    /*clear: both;*/
+    margin-top: 50px;
+    height: 250px;
+
+}
+
+.footer-content{
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+
+.footer-content>ul>li{
+    float: left;
+    margin-right: 150px;
+
+
+}
+
+.footer-content li{
+    list-style: none;
+    color: white;
+
+}
+
+
+.footer-content li{
+    list-style: none;
+    color: white;
+
+}
+
+.footer-content>ul>li>span{
+    font-size: 20px;
+}
+
+
+.footer-content>ul>li>ul{
+    margin-top: 10px;
+}
+
+.footer-content>ul>li>ul>li{
+    font-size: 15px;
+}
+
